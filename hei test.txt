@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 hei, dette er en test
 hilsen marcus
+=======
+hei, dette er en test, hei hei hei
+>>>>>>> Stashed changes
